@@ -26,6 +26,7 @@ class _googleMapState extends State<googleMap> {
 
   void _sd() {
     print('안녕하신가요?');
+    print('안녕하신가요?');
   }
 
   Set<Marker> _createMarker = {};
